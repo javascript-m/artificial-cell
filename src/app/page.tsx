@@ -15,6 +15,7 @@ export default function Home() {
           <h2 className="section-title">Program</h2>
           <div className="program">
             <h3>Monday Morning – Bot-level presentations</h3>
+            <p>Discussion coordinator: A. S. Smith, N. Vandewalle</p>
             <ul>
               <li>I. Mammadli and J. Pande – Update on the second paper drafting</li>
               <li>P. Shrestha – Update on the optimisation of bot flocks motions</li>
@@ -22,6 +23,7 @@ export default function Home() {
             </ul>
 
             <h3>Monday Afternoon – Cell-level presentations</h3>
+            <p>Discussion coordinator: A. S. Smith, N. Vandewalle</p>
             <ul>
               <li>F. Wéry – Update on the cell level experiments</li>
               <li>P. Nowakowski – Update on the cell level simulations</li>
@@ -33,6 +35,7 @@ export default function Home() {
             </ul>
 
             <h3>Tuesday Morning – Tissue-level presentations</h3>
+            <p>Discussion coordinator: A. S. Smith, A. Maier</p>
             <ul>
               <li>F. Novkoski – Update on the jamming transition in robotic cell assemblies</li>
               <li>K. Höllring – Update on the Vertex model simulations of the rigidification transition</li>
@@ -41,6 +44,7 @@ export default function Home() {
 
             <h3>Tuesday Afternoon</h3>
             <ul>
+              <li>A. Maier - Physics meets robotics</li>
               <li>Blackboard Discussion – Construction of ANTs</li>
               <li>Discussion – Pathfinder challenge and other patent-based activities</li>
             </ul>
@@ -68,21 +72,27 @@ export default function Home() {
         </section>
 
         <section className="section speaker-section">
+          <img
+            src="/artificial-cell.png"
+            alt="Artificial cells"
+            className="w-full h-auto mb-16 mx-auto rounded-xl shadow-md"
+          />
           <h2 className="section-title">Invited Speakers</h2>
           <ul className="list">
-            <li>Dr. Sc. Ana Sunčana Smith</li>
-            <li>Dr. Sc. Nicolas Vandewalle</li>
-            <li>Prof. Jayant Pande</li>
-            <li>Dr. Piotr Nowakowski</li>
             <li>Prof. Dr. Andreas Maier</li>
-            <li>Fanny Wéry</li>
-            <li>Filip Novkoski</li>
-            <li>Isa Mammadli</li>
-            <li>Kevin Höllring</li>
-            <li>Maja Milas</li>
+            <li>Prof. Dr. Jayant Pande</li>
+            <li>Prof. Dr. Ana Sunčana Smith</li>
+            <li>Prof. Dr. Nicolas Vandewalle</li>
+            <li>Dr. Kevin Höllring</li>
+            <li>Dr. Filip Novkoski</li>
+            <li>Dr. Piotr Nowakowski</li>
             <li>Mathis Grelier</li>
+            <li>Isa Mammadli</li>
+            <li>Maja Milas</li>
             <li>Prajol Shrestha</li>
+            <li>Fanny Wéry</li>
           </ul>
+          
         </section>
       </div>
 
