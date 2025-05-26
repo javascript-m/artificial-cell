@@ -7,7 +7,7 @@ export default function Home() {
     <div className="landing-page">
       <header className="header">
         <h1 className="title">Artificial Cell Meeting</h1>
-        <p className="subtitle">15th - 18th June | Zadar | Croatia</p>
+        <p className="subtitle">15th - 19th June | Zadar | Croatia</p>
       </header>
 
       <div className="content-grid">
