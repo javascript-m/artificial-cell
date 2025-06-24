@@ -56,16 +56,18 @@ export default function Home() {
 
             <h3>Wednesday Afternoon</h3>
             <ul>
-              <li>Excursion to a local attraction and the beach</li>
+              <li>Conference excursion and informal discussions</li>
             </ul>
 
             <h3>Wednesday Evening</h3>
             <ul>
-              <li>Wine, cheese, robotics and physics</li>
+              <li>Conference dinner</li>
+              <li>Senior PIs coordination meeting</li>
             </ul>
 
             <h3>Thursday Morning</h3>
             <ul>
+              <li>Future tasks assignment</li>
               <li>Departure</li>
             </ul>
           </div>
