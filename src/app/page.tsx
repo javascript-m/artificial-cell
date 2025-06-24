@@ -83,8 +83,6 @@ export default function Home() {
           <ul className="list">
             <li>Prof. Dr. Andreas Maier</li>
             <li>Prof. Dr. Jayant Pande</li>
-            <li>Prof. Dr. Ana Sunčana Smith</li>
-            <li>Prof. Dr. Nicolas Vandewalle</li>
             <li>Dr. Kevin Höllring</li>
             <li>Dr. Filip Novkoski</li>
             <li>Dr. Piotr Nowakowski</li>
@@ -93,6 +91,11 @@ export default function Home() {
             <li>Maja Milas</li>
             <li>Prajol Shrestha</li>
             <li>Fanny Wéry</li>
+          </ul>
+          <h2 className="section-title">Organisers</h2>
+          <ul className="list">
+            <li>Prof. Dr. Ana Sunčana Smith</li>
+            <li>Prof. Dr. Nicolas Vandewalle</li>
           </ul>
           
         </section>
